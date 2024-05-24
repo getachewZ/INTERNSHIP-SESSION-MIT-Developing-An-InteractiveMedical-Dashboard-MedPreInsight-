@@ -1,0 +1,622 @@
+"First_name","Last_name","Gender","Age","Phone","Zone","Woreda","Tabiya","amount","DateTime","method","RegistrationYear","RegistrationMonth","RegistrationWeek","RegistrationDayOfWeek"
+"abebe","tesfaye","m",35,987654321,"mekelle","hawelti","hayelom",100,"2023-09-17T04:15:45.816Z","credit_card",2023,September,3,Thursday
+"alem","mengistu","m",28,987654322,"mekelle","hawelti","hayelom",100,"2023-09-17T05:44:03.253Z","cash",2023,September,3,Thursday
+"genet","yohannes","f",45,987654323,"mekelle","hawelti","hayelom",100,"2023-09-17T13:53:51.054Z","check",2023,September,3,Thursday
+"ruth","solomon","f",22,987654324,"mekelle","hawelti","hayelom",100,"2023-09-17T17:10:18.088Z","cash",2023,September,3,Thursday
+"yared","gebremedhin","m",40,987654325,"mekelle","hawelti","hayelom",100,"2023-09-17T22:39:22.939Z","credit_card",2023,September,3,Thursday
+"betelhem","moges","f",30,987654326,"mekelle","hawelti","hayelom",100,"2023-09-18T01:08:40.852Z","cash",2023,September,3,Friday
+"solomon","tesfaye","m",50,987654327,"mekelle","hawelti","hayelom",100,"2023-09-18T03:49:36.236Z","check",2023,September,3,Friday
+"rachel","michael","f",18,987654328,"mekelle","hawelti","hayelom",100,"2023-09-18T04:49:35.882Z","cash",2023,September,3,Friday
+"eyob","abraham","m",27,987654329,"mekelle","hawelti","hayelom",100,"2023-09-18T06:56:34.462Z","credit_card",2023,September,3,Friday
+"bethlehem","solomon","f",35,987654330,"mekelle","hawelti","hayelom",100,"2023-09-18T11:07:02.032Z","cash",2023,September,3,Friday
+"tsega","hagos","f",11,987654342,"mekelle","hawelti","hayelom",100,"2023-09-16T04:13:45.816Z","cash",2023,September,3,Wednesday
+"syum","yalem","m",25,987654334,"central","chila","chila",100,"2023-09-16T04:14:03.253Z","credit_card",2023,September,3,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2023-09-16T04:15:51.054Z","check",2023,September,3,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2023-09-16T04:16:18.088Z","cash",2023,September,3,Wednesday
+"mulu","berhe","female",50,987654334,"mekelle","hawelti","hayelom",100,"2023-09-25T04:15:45.816Z","cash",2023,September,4,Wednesday
+"zenebe","hadera","male",11,987654322,"mekelle","hawelti","hayelom",100,"2023-09-25T05:44:03.253Z","cash",2023,September,4,Wednesday
+"berhe","hagos","m",3,987654321,"estern","erob","endamosa",100,"2023-09-25T13:53:51.054Z","cash",2023,September,4,Wednesday
+"beriha","hagos","f",17,987654321,"northern","alamata","01",100,"2023-09-25T17:10:18.088Z","cash",2023,September,4,Wednesday
+"tsegay","berhe","m",11,987654323,"southern","mekoni","01",100,"2023-09-25T22:39:22.939Z","cash",2023,September,4,Wednesday
+"tsega","hailu","f",11,987654342,"mekelle","hawelti","hayelom",100,"2023-09-26T01:08:40.852Z","cash",2023,September,4,Wednesday
+"gidey","yalem","f",76,987654321,"mekelle","hawelti","hayelom",100,"2023-09-26T03:49:36.236Z","cash",2023,September,4,Wednesday
+"syum","berihu","m",25,987654334,"central","chila","chila",100,"2023-09-26T04:49:35.882Z","cash",2023,September,4,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2023-09-26T06:56:34.462Z","cash",2023,September,4,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2023-09-26T11:07:02.032Z","cash",2023,September,4,Wednesday
+"abrehet","gebremariam","f",35,987654331,"mekelle","hawelti","hayelom",100,"2023-10-16T04:16:45.816Z","cash",2023,October,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"mekelle","hawelti","hayelom",100,"2023-10-16T04:17:03.253Z","credit_card",2023,October,3,Wednesday
+"selamawit","haile","f",45,987654333,"mekelle","hawelti","hayelom",100,"2023-10-16T04:18:51.054Z","check",2023,October,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"mekelle","hawelti","hayelom",100,"2023-10-16T04:19:18.088Z","cash",2023,October,3,Wednesday
+"hiwot","hailu","f",40,987654336,"mekelle","hawelti","hayelom",100,"2023-10-16T04:20:22.939Z","credit_card",2023,October,3,Wednesday
+"kidane","haregot","m",30,987654337,"mekelle","hawelti","hayelom",100,"2023-10-16T04:21:40.852Z","cash",2023,October,3,Wednesday
+"liya","hayelom","f",50,987654338,"mekelle","hawelti","hayelom",100,"2023-10-16T04:22:36.236Z","check",2023,October,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"mekelle","hawelti","hayelom",100,"2023-10-16T04:23:35.882Z","cash",2023,October,3,Wednesday
+"mehret","hayu","f",27,987654340,"mekelle","hawelti","hayelom",100,"2023-10-16T04:24:34.462Z","credit_card",2023,October,3,Wednesday
+"meron","hayu","m",35,987654341,"mekelle","hawelti","hayelom",100,"2023-10-16T04:25:02.032Z","cash",2023,October,3,Wednesday
+"mulu","hayu","f",25,987654342,"mekelle","hawelti","hayelom",100,"2023-10-16T04:26:04.574Z","cash",2023,October,3,Wednesday
+"negasi","hayu","m",45,987654343,"mekelle","hawelti","hayelom",100,"2023-10-16T04:27:34.245Z","credit_card",2023,October,3,Wednesday
+"rahel","hayu","f",35,987654344,"mekelle","hawelti","hayelom",100,"2023-10-16T04:28:43.862Z","check",2023,October,3,Wednesday
+"robel","hayu","m",25,987654345,"mekelle","hawelti","hayelom",100,"2023-10-16T04:29:56.006Z","cash",2023,October,3,Wednesday
+"ruth","hayu","f",45,987654346,"mekelle","hawelti","hayelom",100,"2023-10-16T04:30:40.897Z","credit_card",2023,October,3,Wednesday
+"selam","hayu","f",35,987654347,"mekelle","hawelti","hayelom",100,"2023-10-16T04:31:31.985Z","check",2023,October,3,Wednesday
+"selam","hayu","f",25,987654348,"mekelle","hawelti","hayelom",100,"2023-10-16T04:32:23.425Z","cash",2023,October,3,Wednesday
+"selam","hayu","f",45,987654349,"mekelle","hawelti","hayelom",100,"2023-10-16T04:33:55.548Z","credit_card",2023,October,3,Wednesday
+"selam","hayu","f",35,987654350,"mekelle","hawelti","hayelom",100,"2023-10-16T04:34:42.719Z","check",2023,October,3,Wednesday
+"selam","hayu","f",25,987654351,"mekelle","hawelti","hayelom",100,"2023-10-16T04:35:19.369Z","cash",2023,October,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:16:45.816Z","cash",2023,October,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:17:03.253Z","credit_card",2023,October,3,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:18:51.054Z","check",2023,October,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:19:18.088Z","cash",2023,October,3,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:20:22.939Z","credit_card",2023,October,3,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:21:40.852Z","cash",2023,October,3,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:22:36.236Z","check",2023,October,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:23:35.882Z","cash",2023,October,3,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:24:34.462Z","credit_card",2023,October,3,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:25:02.032Z","cash",2023,October,3,Wednesday
+"mulu","hayu","f",25,987654342,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:26:04.574Z","cash",2023,October,3,Wednesday
+"negasi","hayu","m",45,987654343,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:27:34.245Z","credit_card",2023,October,3,Wednesday
+"rahel","hayu","f",35,987654344,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:28:43.862Z","check",2023,October,3,Wednesday
+"robel","hayu","m",25,987654345,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:29:56.006Z","cash",2023,October,3,Wednesday
+"ruth","hayu","f",45,987654346,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:30:40.897Z","credit_card",2023,October,3,Wednesday
+"selam","hayu","f",35,987654347,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:31:31.985Z","check",2023,October,3,Wednesday
+"selam","hayu","f",25,987654348,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:32:23.425Z","cash",2023,October,3,Wednesday
+"selam","hayu","f",45,987654349,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:33:55.548Z","credit_card",2023,October,3,Wednesday
+"selam","hayu","f",35,987654350,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:34:42.719Z","check",2023,October,3,Wednesday
+"selam","hayu","f",25,987654351,"eastern","ganta afeshum","ganta afeshum",100,"2023-10-16T04:35:19.369Z","cash",2023,October,3,Wednesday
+"hgus","weldeyohanes","m",25,987654321,"central","naedier","metakulo",100,"2023-11-07T08:15:34.245Z","cash",2023,November,1,Saturday
+"we","we","f",12,9876543,"we","we","we",100,"2023-11-07T18:56:43.862Z","credit_card",2023,November,1,Saturday
+"me","me","f",12,987654321,"we","we","we",100,"2023-11-08T04:12:56.006Z","credit_card",2023,November,1,Saturday
+"qw","qw","m",12,898088,"qw","qw","qw",100,"2023-11-08T07:02:40.897Z","check",2023,November,1,Sunday
+"fre","fe","m",12,1231131,"new","new","new",100,"2023-11-08T19:58:31.985Z","check",2023,November,1,Sunday
+"azeb","tekle","m",25,987654321,"central","naedier","abeba yohans",100,"2023-11-09T17:00:23.425Z","cash",2023,November,1,Monday
+"rer","ree","m",12,987,"we","we","we",100,"2023-11-09T18:03:55.548Z","check",2023,November,1,Monday
+"tsegay","berhe","m",22,987654321,"mekelle","hawelti","01",100,"2023-11-16T04:07:42.719Z","cash",2023,November,2,Wednesday
+"beyene","tsegay","m",56,9876543345,"central","axum","abeba yohans",100,"2023-11-16T04:09:19.369Z","credit_card",2023,November,2,Wednesday
+"tekia","tekle","m",56,987654321,"estern","erob","endamosa",100,"2023-11-16T04:10:44.301Z","credit_card",2023,November,2,Wednesday
+"lemlem","hagos","f",4,979417636,"central","naedier","new",100,"2023-11-16T04:11:31.633Z","cash",2023,November,2,Wednesday
+"getachew","hadgu","m",12,987654322,"western","humera","humera",100,"2023-11-16T04:12:30.921Z","cash",2023,November,2,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2023-11-16T04:16:45.816Z","cash",2023,November,2,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2023-11-16T04:17:03.253Z","credit_card",2023,November,2,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2023-11-16T04:18:51.054Z","check",2023,November,2,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2023-11-16T04:19:18.088Z","cash",2023,November,2,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2023-11-16T04:20:22.939Z","credit_card",2023,November,2,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2023-11-16T04:21:40.852Z","cash",2023,November,2,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2023-11-16T04:22:36.236Z","check",2023,November,2,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2023-11-16T04:23:35.882Z","cash",2023,November,2,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2023-11-16T04:24:34.462Z","credit_card",2023,November,2,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2023-11-16T04:25:02.032Z","cash",2023,November,2,Wednesday
+"abebe","tesfaye","m",35,987654321,"mekelle","hawelti","hayelom",100,"2023-11-17T04:15:45.816Z","credit_card",2023,November,3,Thursday
+"alem","mengistu","m",28,987654322,"mekelle","hawelti","hayelom",100,"2023-11-17T05:44:03.253Z","cash",2023,November,3,Thursday
+"genet","yohannes","f",45,987654323,"mekelle","hawelti","hayelom",100,"2023-11-17T13:53:51.054Z","check",2023,November,3,Thursday
+"ruth","solomon","f",22,987654324,"mekelle","hawelti","hayelom",100,"2023-11-17T17:10:18.088Z","cash",2023,November,3,Thursday
+"yared","gebremedhin","m",40,987654325,"mekelle","hawelti","hayelom",100,"2023-11-17T22:39:22.939Z","credit_card",2023,November,3,Thursday
+"betelhem","moges","f",30,987654326,"mekelle","hawelti","hayelom",100,"2023-11-18T01:08:40.852Z","cash",2023,November,3,Friday
+"solomon","tesfaye","m",50,987654327,"mekelle","hawelti","hayelom",100,"2023-11-18T03:49:36.236Z","check",2023,November,3,Friday
+"rachel","michael","f",18,987654328,"mekelle","hawelti","hayelom",100,"2023-11-18T04:49:35.882Z","cash",2023,November,3,Friday
+"eyob","abraham","m",27,987654329,"mekelle","hawelti","hayelom",100,"2023-11-18T06:56:34.462Z","credit_card",2023,November,3,Friday
+"bethlehem","solomon","f",35,987654330,"mekelle","hawelti","hayelom",100,"2023-11-18T11:07:02.032Z","cash",2023,November,3,Friday
+"tsega","hagos","f",11,987654342,"mekelle","hawelti","hayelom",100,"2023-11-16T04:13:45.816Z","cash",2023,November,3,Wednesday
+"syum","yalem","m",25,987654334,"central","chila","chila",100,"2023-11-16T04:14:03.253Z","credit_card",2023,November,3,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2023-11-16T04:15:51.054Z","check",2023,November,3,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2023-11-16T04:16:18.088Z","cash",2023,November,3,Wednesday
+"mulu","berhe","female",50,987654334,"mekelle","hawelti","hayelom",100,"2023-11-25T04:15:45.816Z","cash",2023,November,4,Wednesday
+"zenebe","hadera","male",11,987654322,"mekelle","hawelti","hayelom",100,"2023-11-25T05:44:03.253Z","cash",2023,November,4,Wednesday
+"berhe","hagos","m",3,987654321,"estern","erob","endamosa",100,"2023-11-25T13:53:51.054Z","cash",2023,November,4,Wednesday
+"beriha","hagos","f",17,987654321,"northern","alamata","01",100,"2023-11-25T17:10:18.088Z","cash",2023,November,4,Wednesday
+"tsegay","berhe","m",11,987654323,"southern","mekoni","01",100,"2023-11-25T22:39:22.939Z","cash",2023,November,4,Wednesday
+"tsega","hailu","f",11,987654342,"mekelle","hawelti","hayelom",100,"2023-11-26T01:08:40.852Z","cash",2023,November,4,Wednesday
+"gidey","yalem","f",76,987654321,"mekelle","hawelti","hayelom",100,"2023-11-26T03:49:36.236Z","cash",2023,November,4,Wednesday
+"syum","berihu","m",25,987654334,"central","chila","chila",100,"2023-11-26T04:49:35.882Z","cash",2023,November,4,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2023-11-26T06:56:34.462Z","cash",2023,November,4,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2023-11-26T11:07:02.032Z","cash",2023,November,4,Wednesday
+"abrehet","gebremariam","f",35,987654331,"mekelle","hawelti","hayelom",100,"2023-12-06T04:16:45.816Z","cash",2023,December,1,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"mekelle","hawelti","hayelom",100,"2023-12-06T04:17:03.253Z","credit_card",2023,December,1,Wednesday
+"selamawit","haile","f",45,987654333,"mekelle","hawelti","hayelom",100,"2023-12-06T04:18:51.054Z","check",2023,December,1,Wednesday
+"daniel","habtemariam","m",22,987654335,"mekelle","hawelti","hayelom",100,"2023-12-06T04:19:18.088Z","cash",2023,December,1,Wednesday
+"hiwot","hailu","f",40,987654336,"mekelle","hawelti","hayelom",100,"2023-12-06T04:20:22.939Z","credit_card",2023,December,1,Wednesday
+"kidane","haregot","m",30,987654337,"mekelle","hawelti","hayelom",100,"2023-12-06T04:21:40.852Z","cash",2023,December,1,Wednesday
+"liya","hayelom","f",50,987654338,"mekelle","hawelti","hayelom",100,"2023-12-06T04:22:36.236Z","check",2023,December,1,Wednesday
+"mebrahtu","haylu","m",18,987654339,"mekelle","hawelti","hayelom",100,"2023-12-06T04:23:35.882Z","cash",2023,December,1,Wednesday
+"mehret","hayu","f",27,987654340,"mekelle","hawelti","hayelom",100,"2023-12-06T04:24:34.462Z","credit_card",2023,December,1,Wednesday
+"meron","hayu","m",35,987654341,"mekelle","hawelti","hayelom",100,"2023-12-06T04:25:02.032Z","cash",2023,December,1,Wednesday
+"mulu","hayu","f",25,987654342,"mekelle","hawelti","hayelom",100,"2023-12-06T04:26:04.574Z","cash",2023,December,1,Wednesday
+"negasi","hayu","m",45,987654343,"mekelle","hawelti","hayelom",100,"2023-12-06T04:27:34.245Z","credit_card",2023,December,1,Wednesday
+"rahel","hayu","f",35,987654344,"mekelle","hawelti","hayelom",100,"2023-12-06T04:28:43.862Z","check",2023,December,1,Wednesday
+"robel","hayu","m",25,987654345,"mekelle","hawelti","hayelom",100,"2023-12-06T04:29:56.006Z","cash",2023,December,1,Wednesday
+"ruth","hayu","f",45,987654346,"mekelle","hawelti","hayelom",100,"2023-12-06T04:30:40.897Z","credit_card",2023,December,1,Wednesday
+"selam","hayu","f",35,987654347,"mekelle","hawelti","hayelom",100,"2023-12-06T04:31:31.985Z","check",2023,December,1,Wednesday
+"selam","hayu","f",25,987654348,"mekelle","hawelti","hayelom",100,"2023-12-06T04:32:23.425Z","cash",2023,December,1,Wednesday
+"selam","hayu","f",45,987654349,"mekelle","hawelti","hayelom",100,"2023-12-06T04:33:55.548Z","credit_card",2023,December,1,Wednesday
+"selam","hayu","f",35,987654350,"mekelle","hawelti","hayelom",100,"2023-12-06T04:34:42.719Z","check",2023,December,1,Wednesday
+"selam","hayu","f",25,987654351,"mekelle","hawelti","hayelom",100,"2023-12-06T04:35:19.369Z","cash",2023,December,1,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:16:45.816Z","cash",2023,December,1,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:17:03.253Z","credit_card",2023,December,1,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:18:51.054Z","check",2023,December,1,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:19:18.088Z","cash",2023,December,1,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:20:22.939Z","credit_card",2023,December,1,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:21:40.852Z","cash",2023,December,1,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:22:36.236Z","check",2023,December,1,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:23:35.882Z","cash",2023,December,1,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:24:34.462Z","credit_card",2023,December,1,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:25:02.032Z","cash",2023,December,1,Wednesday
+"mulu","hayu","f",25,987654342,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:26:04.574Z","cash",2023,December,1,Wednesday
+"negasi","hayu","m",45,987654343,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:27:34.245Z","credit_card",2023,December,1,Wednesday
+"rahel","hayu","f",35,987654344,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:28:43.862Z","check",2023,December,1,Wednesday
+"robel","hayu","m",25,987654345,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:29:56.006Z","cash",2023,December,1,Wednesday
+"ruth","hayu","f",45,987654346,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:30:40.897Z","credit_card",2023,December,1,Wednesday
+"selam","hayu","f",35,987654347,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:31:31.985Z","check",2023,December,1,Wednesday
+"selam","hayu","f",25,987654348,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:32:23.425Z","cash",2023,December,1,Wednesday
+"selam","hayu","f",45,987654349,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:33:55.548Z","credit_card",2023,December,1,Wednesday
+"selam","hayu","f",35,987654350,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:34:42.719Z","check",2023,December,1,Wednesday
+"selam","hayu","f",25,987654351,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-06T04:35:19.369Z","cash",2023,December,1,Wednesday
+"hgus","weldeyohanes","m",25,987654321,"central","naedier","metakulo",100,"2023-12-07T08:15:34.245Z","cash",2023,December,2,Saturday
+"we","we","f",12,9876543,"we","we","we",100,"2023-12-07T18:56:43.862Z","credit_card",2023,December,2,Saturday
+"me","me","f",12,987654321,"we","we","we",100,"2023-12-08T04:12:56.006Z","credit_card",2023,December,2,Saturday
+"qw","qw","m",12,898088,"qw","qw","qw",100,"2023-12-08T07:02:40.897Z","check",2023,December,2,Sunday
+"fre","fe","m",12,1231131,"new","new","new",100,"2023-12-08T19:58:31.985Z","check",2023,December,2,Sunday
+"azeb","tekle","m",25,987654321,"central","naedier","abeba yohans",100,"2023-12-09T17:00:23.425Z","cash",2023,December,2,Monday
+"rer","ree","m",12,987,"we","we","we",100,"2023-12-09T18:03:55.548Z","check",2023,December,2,Monday
+"beyene","tsegay","m",56,9876543345,"central","axum","abeba yohans",100,"2023-12-16T04:09:19.369Z","credit_card",2023,December,3,Wednesday
+"tekia","tekle","m",56,987654321,"estern","erob","endamosa",100,"2023-12-16T04:10:44.301Z","credit_card",2023,December,3,Wednesday
+"lemlem","hagos","f",4,979417636,"central","naedier","new",100,"2023-12-16T04:11:31.633Z","cash",2023,December,3,Wednesday
+"getachew","hadgu","m",12,987654322,"western","humera","humera",100,"2023-12-16T04:12:30.921Z","cash",2023,December,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-16T04:16:45.816Z","cash",2023,December,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-16T04:17:03.253Z","credit_card",2023,December,3,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-16T04:18:51.054Z","check",2023,December,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-16T04:19:18.088Z","cash",2023,December,3,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-16T04:20:22.939Z","credit_card",2023,December,3,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-16T04:21:40.852Z","cash",2023,December,3,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-16T04:22:36.236Z","check",2023,December,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-16T04:23:35.882Z","cash",2023,December,3,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-16T04:24:34.462Z","credit_card",2023,December,3,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2023-12-16T04:25:02.032Z","cash",2023,December,3,Wednesday
+"abebe","tesfaye","m",35,987654321,"mekelle","hawelti","hayelom",100,"2023-12-17T04:15:45.816Z","credit_card",2023,December,3,Thursday
+"alem","mengistu","m",28,987654322,"mekelle","hawelti","hayelom",100,"2023-12-17T05:44:03.253Z","cash",2023,December,3,Thursday
+"genet","yohannes","f",45,987654323,"mekelle","hawelti","hayelom",100,"2023-12-17T13:53:51.054Z","check",2023,December,3,Thursday
+"ruth","solomon","f",22,987654324,"mekelle","hawelti","hayelom",100,"2023-12-17T17:10:18.088Z","cash",2023,December,3,Thursday
+"yared","gebremedhin","m",40,987654325,"mekelle","hawelti","hayelom",100,"2023-12-17T22:39:22.939Z","credit_card",2023,December,3,Thursday
+"betelhem","moges","f",30,987654326,"mekelle","hawelti","hayelom",100,"2023-12-18T01:08:40.852Z","cash",2023,December,3,Friday
+"solomon","tesfaye","m",50,987654327,"mekelle","hawelti","hayelom",100,"2023-12-18T03:49:36.236Z","check",2023,December,3,Friday
+"rachel","michael","f",18,987654328,"mekelle","hawelti","hayelom",100,"2023-12-18T04:49:35.882Z","cash",2023,December,3,Friday
+"eyob","abraham","m",27,987654329,"mekelle","hawelti","hayelom",100,"2023-12-18T06:56:34.462Z","credit_card",2023,December,3,Friday
+"bethlehem","solomon","f",35,987654330,"mekelle","hawelti","hayelom",100,"2023-12-18T11:07:02.032Z","cash",2023,December,3,Friday
+"mulu","berhe","female",50,987654334,"mekelle","hawelti","hayelom",100,"2023-12-25T04:15:45.816Z","cash",2023,December,4,Wednesday
+"zenebe","hadera","male",11,987654322,"mekelle","hawelti","hayelom",100,"2023-12-25T05:44:03.253Z","cash",2023,December,4,Wednesday
+"berhe","hagos","m",3,987654321,"estern","erob","endamosa",100,"2023-12-25T13:53:51.054Z","cash",2023,December,4,Wednesday
+"beriha","hagos","f",17,987654321,"northern","alamata","01",100,"2023-12-25T17:10:18.088Z","cash",2023,December,4,Wednesday
+"tsegay","berhe","m",11,987654323,"southern","mekoni","01",100,"2023-12-25T22:39:22.939Z","cash",2023,December,4,Wednesday
+"tsega","hailu","f",11,987654342,"mekelle","hawelti","hayelom",100,"2023-12-26T01:08:40.852Z","cash",2023,December,4,Wednesday
+"gidey","yalem","f",76,987654321,"mekelle","hawelti","hayelom",100,"2023-12-26T03:49:36.236Z","cash",2023,December,4,Wednesday
+"syum","berihu","m",25,987654334,"central","chila","chila",100,"2023-12-26T04:49:35.882Z","cash",2023,December,4,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2023-12-26T06:56:34.462Z","cash",2023,December,4,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2023-12-26T11:07:02.032Z","cash",2023,December,4,Wednesday
+"abrehet","gebremariam","f",35,987654331,"mekelle","hawelti","hayelom",100,"2024-01-16T04:16:45.816Z","cash",2024,January,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"mekelle","hawelti","hayelom",100,"2024-01-16T04:17:03.253Z","credit_card",2024,January,3,Wednesday
+"selamawit","haile","f",45,987654333,"mekelle","hawelti","hayelom",100,"2024-01-16T04:18:51.054Z","check",2024,January,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"mekelle","hawelti","hayelom",100,"2024-01-16T04:19:18.088Z","cash",2024,January,3,Wednesday
+"hiwot","hailu","f",40,987654336,"mekelle","hawelti","hayelom",100,"2024-01-16T04:20:22.939Z","credit_card",2024,January,3,Wednesday
+"kidane","haregot","m",30,987654337,"mekelle","hawelti","hayelom",100,"2024-01-16T04:21:40.852Z","cash",2024,January,3,Wednesday
+"liya","hayelom","f",50,987654338,"mekelle","hawelti","hayelom",100,"2024-01-16T04:22:36.236Z","check",2024,January,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"mekelle","hawelti","hayelom",100,"2024-01-16T04:23:35.882Z","cash",2024,January,3,Wednesday
+"mehret","hayu","f",27,987654340,"mekelle","hawelti","hayelom",100,"2024-01-16T04:24:34.462Z","credit_card",2024,January,3,Wednesday
+"meron","hayu","m",35,987654341,"mekelle","hawelti","hayelom",100,"2024-01-16T04:25:02.032Z","cash",2024,January,3,Wednesday
+"mulu","hayu","f",25,987654342,"mekelle","hawelti","hayelom",100,"2024-01-16T04:26:04.574Z","cash",2024,January,3,Wednesday
+"negasi","hayu","m",45,987654343,"mekelle","hawelti","hayelom",100,"2024-01-16T04:27:34.245Z","credit_card",2024,January,3,Wednesday
+"rahel","hayu","f",35,987654344,"mekelle","hawelti","hayelom",100,"2024-01-16T04:28:43.862Z","check",2024,January,3,Wednesday
+"robel","hayu","m",25,987654345,"mekelle","hawelti","hayelom",100,"2024-01-16T04:29:56.006Z","cash",2024,January,3,Wednesday
+"ruth","hayu","f",45,987654346,"mekelle","hawelti","hayelom",100,"2024-01-16T04:30:40.897Z","credit_card",2024,January,3,Wednesday
+"selam","hayu","f",35,987654347,"mekelle","hawelti","hayelom",100,"2024-01-16T04:31:31.985Z","check",2024,January,3,Wednesday
+"selam","hayu","f",25,987654348,"mekelle","hawelti","hayelom",100,"2024-01-16T04:32:23.425Z","cash",2024,January,3,Wednesday
+"selam","hayu","f",45,987654349,"mekelle","hawelti","hayelom",100,"2024-01-16T04:33:55.548Z","credit_card",2024,January,3,Wednesday
+"selam","hayu","f",35,987654350,"mekelle","hawelti","hayelom",100,"2024-01-16T04:34:42.719Z","check",2024,January,3,Wednesday
+"selam","hayu","f",25,987654351,"mekelle","hawelti","hayelom",100,"2024-01-16T04:35:19.369Z","cash",2024,January,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:16:45.816Z","cash",2024,January,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:17:03.253Z","credit_card",2024,January,3,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:18:51.054Z","check",2024,January,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:19:18.088Z","cash",2024,January,3,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:20:22.939Z","credit_card",2024,January,3,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:21:40.852Z","cash",2024,January,3,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:22:36.236Z","check",2024,January,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:23:35.882Z","cash",2024,January,3,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:24:34.462Z","credit_card",2024,January,3,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:25:02.032Z","cash",2024,January,3,Wednesday
+"mulu","hayu","f",25,987654342,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:26:04.574Z","cash",2024,January,3,Wednesday
+"negasi","hayu","m",45,987654343,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:27:34.245Z","credit_card",2024,January,3,Wednesday
+"rahel","hayu","f",35,987654344,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:28:43.862Z","check",2024,January,3,Wednesday
+"robel","hayu","m",25,987654345,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:29:56.006Z","cash",2024,January,3,Wednesday
+"ruth","hayu","f",45,987654346,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:30:40.897Z","credit_card",2024,January,3,Wednesday
+"selam","hayu","f",35,987654347,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:31:31.985Z","check",2024,January,3,Wednesday
+"selam","hayu","f",25,987654348,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:32:23.425Z","cash",2024,January,3,Wednesday
+"selam","hayu","f",45,987654349,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:33:55.548Z","credit_card",2024,January,3,Wednesday
+"selam","hayu","f",35,987654350,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:34:42.719Z","check",2024,January,3,Wednesday
+"selam","hayu","f",25,987654351,"eastern","ganta afeshum","ganta afeshum",100,"2024-01-16T04:35:19.369Z","cash",2024,January,3,Wednesday
+"hgus","weldeyohanes","m",25,987654321,"central","naedier","metakulo",100,"2024-01-27T08:15:34.245Z","cash",2024,April,4,Saturday
+"we","we","f",12,9876543,"we","we","we",100,"2024-01-27T18:56:43.862Z","credit_card",2024,January,4,Saturday
+"me","me","f",12,987654321,"we","we","we",100,"2024-01-28T04:12:56.006Z","credit_card",2024,January,4,Saturday
+"qw","qw","m",12,898088,"qw","qw","qw",100,"2024-01-28T07:02:40.897Z","check",2024,January,4,Sunday
+"fre","fe","m",12,1231131,"new","new","new",100,"2024-01-28T19:58:31.985Z","check",2024,January,4,Sunday
+"azeb","tekle","m",25,987654321,"central","naedier","abeba yohans",100,"2024-01-29T17:00:23.425Z","cash",2024,January,5,Monday
+"rer","ree","m",12,987,"we","we","we",100,"2024-01-29T18:03:55.548Z","check",2024,January,5,Monday
+"tsegay","berhe","m",22,987654321,"mekelle","hawelti","01",100,"2024-02-16T04:07:42.719Z","cash",2024,February,3,Wednesday
+"beyene","tsegay","m",56,9876543345,"central","axum","abeba yohans",100,"2024-02-16T04:09:19.369Z","credit_card",2024,February,3,Wednesday
+"tekia","tekle","m",56,987654321,"estern","erob","endamosa",100,"2024-02-16T04:10:44.301Z","credit_card",2024,February,3,Wednesday
+"lemlem","hagos","f",4,979417636,"central","naedier","new",100,"2024-02-16T04:11:31.633Z","cash",2024,February,3,Wednesday
+"getachew","hadgu","m",12,987654322,"western","humera","humera",100,"2024-02-16T04:12:30.921Z","cash",2024,February,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2024-02-16T04:16:45.816Z","cash",2024,February,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2024-02-16T04:17:03.253Z","credit_card",2024,February,3,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2024-02-16T04:18:51.054Z","check",2024,February,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2024-02-16T04:19:18.088Z","cash",2024,February,3,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2024-02-16T04:20:22.939Z","credit_card",2024,February,3,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2024-02-16T04:21:40.852Z","cash",2024,February,3,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2024-02-16T04:22:36.236Z","check",2024,February,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2024-02-16T04:23:35.882Z","cash",2024,February,3,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2024-02-16T04:24:34.462Z","credit_card",2024,February,3,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2024-02-16T04:25:02.032Z","cash",2024,February,3,Wednesday
+"abebe","tesfaye","m",35,987654321,"mekelle","hawelti","hayelom",100,"2024-02-17T04:15:45.816Z","credit_card",2024,February,3,Thursday
+"alem","mengistu","m",28,987654322,"mekelle","hawelti","hayelom",100,"2024-02-17T05:44:03.253Z","cash",2024,February,3,Thursday
+"genet","yohannes","f",45,987654323,"mekelle","hawelti","hayelom",100,"2024-02-17T13:53:51.054Z","check",2024,February,3,Thursday
+"ruth","solomon","f",22,987654324,"mekelle","hawelti","hayelom",100,"2024-02-17T17:10:18.088Z","cash",2024,February,3,Thursday
+"yared","gebremedhin","m",40,987654325,"mekelle","hawelti","hayelom",100,"2024-02-17T22:39:22.939Z","credit_card",2024,February,3,Thursday
+"betelhem","moges","f",30,987654326,"mekelle","hawelti","hayelom",100,"2024-02-18T01:08:40.852Z","cash",2024,February,3,Friday
+"solomon","tesfaye","m",50,987654327,"mekelle","hawelti","hayelom",100,"2024-02-18T03:49:36.236Z","check",2024,February,3,Friday
+"rachel","michael","f",18,987654328,"mekelle","hawelti","hayelom",100,"2024-02-18T04:49:35.882Z","cash",2024,February,3,Friday
+"eyob","abraham","m",27,987654329,"mekelle","hawelti","hayelom",100,"2024-02-18T06:56:34.462Z","credit_card",2024,February,3,Friday
+"bethlehem","solomon","f",35,987654330,"mekelle","hawelti","hayelom",100,"2024-02-18T11:07:02.032Z","cash",2024,February,3,Friday
+"tsega","hagos","f",11,987654342,"mekelle","hawelti","hayelom",100,"2024-02-16T04:13:45.816Z","cash",2024,February,3,Wednesday
+"syum","yalem","m",25,987654334,"central","chila","chila",100,"2024-02-16T04:14:03.253Z","credit_card",2024,February,3,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2024-02-16T04:15:51.054Z","check",2024,February,3,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2024-02-16T04:16:18.088Z","cash",2024,February,3,Wednesday
+"mulu","berhe","female",50,987654334,"mekelle","hawelti","hayelom",100,"2024-02-25T04:15:45.816Z","cash",2024,February,4,Wednesday
+"zenebe","hadera","male",11,987654322,"mekelle","hawelti","hayelom",100,"2024-02-25T05:44:03.253Z","cash",2024,February,4,Wednesday
+"berhe","hagos","m",3,987654321,"estern","erob","endamosa",100,"2024-02-25T13:53:51.054Z","cash",2024,February,4,Wednesday
+"beriha","hagos","f",17,987654321,"northern","alamata","01",100,"2024-02-25T17:10:18.088Z","cash",2024,February,4,Wednesday
+"tsegay","berhe","m",11,987654323,"southern","mekoni","01",100,"2024-02-25T22:39:22.939Z","cash",2024,February,4,Wednesday
+"tsega","hailu","f",11,987654342,"mekelle","hawelti","hayelom",100,"2024-02-26T01:08:40.852Z","cash",2024,February,4,Wednesday
+"gidey","yalem","f",76,987654321,"mekelle","hawelti","hayelom",100,"2024-02-26T03:49:36.236Z","cash",2024,February,4,Wednesday
+"syum","berihu","m",25,987654334,"central","chila","chila",100,"2024-02-26T04:49:35.882Z","cash",2024,February,4,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2024-02-26T06:56:34.462Z","cash",2024,February,4,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2024-02-26T11:07:02.032Z","cash",2024,February,4,Wednesday
+"abrehet","gebremariam","f",35,987654331,"mekelle","hawelti","hayelom",100,"2024-03-16T04:16:45.816Z","cash",2024,March,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"mekelle","hawelti","hayelom",100,"2024-03-16T04:17:03.253Z","credit_card",2024,March,3,Wednesday
+"selamawit","haile","f",45,987654333,"mekelle","hawelti","hayelom",100,"2024-03-16T04:18:51.054Z","check",2024,March,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"mekelle","hawelti","hayelom",100,"2024-03-16T04:19:18.088Z","cash",2024,March,3,Wednesday
+"hiwot","hailu","f",40,987654336,"mekelle","hawelti","hayelom",100,"2024-03-16T04:20:22.939Z","credit_card",2024,March,3,Wednesday
+"kidane","haregot","m",30,987654337,"mekelle","hawelti","hayelom",100,"2024-03-16T04:21:40.852Z","cash",2024,March,3,Wednesday
+"liya","hayelom","f",50,987654338,"mekelle","hawelti","hayelom",100,"2024-03-16T04:22:36.236Z","check",2024,March,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"mekelle","hawelti","hayelom",100,"2024-03-16T04:23:35.882Z","cash",2024,March,3,Wednesday
+"mehret","hayu","f",27,987654340,"mekelle","hawelti","hayelom",100,"2024-03-16T04:24:34.462Z","credit_card",2024,March,3,Wednesday
+"meron","hayu","m",35,987654341,"mekelle","hawelti","hayelom",100,"2024-03-16T04:25:02.032Z","cash",2024,March,3,Wednesday
+"mulu","hayu","f",25,987654342,"mekelle","hawelti","hayelom",100,"2024-03-16T04:26:04.574Z","cash",2024,March,3,Wednesday
+"negasi","hayu","m",45,987654343,"mekelle","hawelti","hayelom",100,"2024-03-16T04:27:34.245Z","credit_card",2024,March,3,Wednesday
+"rahel","hayu","f",35,987654344,"mekelle","hawelti","hayelom",100,"2024-03-16T04:28:43.862Z","check",2024,March,3,Wednesday
+"robel","hayu","m",25,987654345,"mekelle","hawelti","hayelom",100,"2024-03-16T04:29:56.006Z","cash",2024,March,3,Wednesday
+"ruth","hayu","f",45,987654346,"mekelle","hawelti","hayelom",100,"2024-03-16T04:30:40.897Z","credit_card",2024,March,3,Wednesday
+"selam","hayu","f",35,987654347,"mekelle","hawelti","hayelom",100,"2024-03-16T04:31:31.985Z","check",2024,March,3,Wednesday
+"selam","hayu","f",25,987654348,"mekelle","hawelti","hayelom",100,"2024-03-16T04:32:23.425Z","cash",2024,March,3,Wednesday
+"selam","hayu","f",45,987654349,"mekelle","hawelti","hayelom",100,"2024-03-16T04:33:55.548Z","credit_card",2024,March,3,Wednesday
+"selam","hayu","f",35,987654350,"mekelle","hawelti","hayelom",100,"2024-03-16T04:34:42.719Z","check",2024,March,3,Wednesday
+"selam","hayu","f",25,987654351,"mekelle","hawelti","hayelom",100,"2024-03-16T04:35:19.369Z","cash",2024,March,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:16:45.816Z","cash",2024,March,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:17:03.253Z","credit_card",2024,March,3,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:18:51.054Z","check",2024,March,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:19:18.088Z","cash",2024,March,3,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:20:22.939Z","credit_card",2024,March,3,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:21:40.852Z","cash",2024,March,3,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:22:36.236Z","check",2024,March,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:23:35.882Z","cash",2024,March,3,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:24:34.462Z","credit_card",2024,March,3,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:25:02.032Z","cash",2024,March,3,Wednesday
+"mulu","hayu","f",25,987654342,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:26:04.574Z","cash",2024,March,3,Wednesday
+"negasi","hayu","m",45,987654343,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:27:34.245Z","credit_card",2024,March,3,Wednesday
+"rahel","hayu","f",35,987654344,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:28:43.862Z","check",2024,March,3,Wednesday
+"robel","hayu","m",25,987654345,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:29:56.006Z","cash",2024,March,3,Wednesday
+"ruth","hayu","f",45,987654346,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:30:40.897Z","credit_card",2024,March,3,Wednesday
+"selam","hayu","f",35,987654347,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:31:31.985Z","check",2024,March,3,Wednesday
+"selam","hayu","f",25,987654348,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:32:23.425Z","cash",2024,March,3,Wednesday
+"selam","hayu","f",45,987654349,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:33:55.548Z","credit_card",2024,March,3,Wednesday
+"selam","hayu","f",35,987654350,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:34:42.719Z","check",2024,March,3,Wednesday
+"selam","hayu","f",25,987654351,"eastern","ganta afeshum","ganta afeshum",100,"2024-03-16T04:35:19.369Z","cash",2024,March,3,Wednesday
+"hgus","weldeyohanes","m",25,987654321,"central","naedier","metakulo",100,"2024-04-27T08:15:34.245Z","cash",2024,April,4,Saturday
+"we","we","f",12,9876543,"we","we","we",100,"2024-04-27T18:56:43.862Z","credit_card",2024,April,4,Saturday
+"me","me","f",12,987654321,"we","we","we",100,"2024-04-28T04:12:56.006Z","credit_card",2024,April,4,Saturday
+"qw","qw","m",12,898088,"qw","qw","qw",100,"2024-04-28T07:02:40.897Z","check",2024,April,4,Sunday
+"fre","fe","m",12,1231131,"new","new","new",100,"2024-04-28T19:58:31.985Z","check",2024,April,4,Sunday
+"azeb","tekle","m",25,987654321,"central","naedier","abeba yohans",100,"2024-04-29T17:00:23.425Z","cash",2024,April,5,Monday
+"rer","ree","m",12,987,"we","we","we",100,"2024-04-29T18:03:55.548Z","check",2024,April,5,Monday
+"tsegay","berhe","m",22,987654321,"mekelle","hawelti","01",100,"2024-05-16T04:07:42.719Z","cash",2024,May,3,Wednesday
+"beyene","tsegay","m",56,9876543345,"central","axum","abeba yohans",100,"2024-05-16T04:09:19.369Z","credit_card",2024,May,3,Wednesday
+"tekia","tekle","m",56,987654321,"estern","erob","endamosa",100,"2024-05-16T04:10:44.301Z","credit_card",2024,May,3,Wednesday
+"lemlem","hagos","f",4,979417636,"central","naedier","new",100,"2024-05-16T04:11:31.633Z","cash",2024,May,3,Wednesday
+"getachew","hadgu","m",12,987654322,"western","humera","humera",100,"2024-05-16T04:12:30.921Z","cash",2024,May,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2024-05-16T04:16:45.816Z","cash",2024,May,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2024-05-16T04:17:03.253Z","credit_card",2024,May,3,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2024-05-16T04:18:51.054Z","check",2024,May,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2024-05-16T04:19:18.088Z","cash",2024,May,3,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2024-05-16T04:20:22.939Z","credit_card",2024,May,3,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2024-05-16T04:21:40.852Z","cash",2024,May,3,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2024-05-16T04:22:36.236Z","check",2024,May,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2024-05-16T04:23:35.882Z","cash",2024,May,3,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2024-05-16T04:24:34.462Z","credit_card",2024,May,3,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2024-05-16T04:25:02.032Z","cash",2024,May,3,Wednesday
+"abebe","tesfaye","m",35,987654321,"mekelle","hawelti","hayelom",100,"2024-05-17T04:15:45.816Z","credit_card",2024,May,3,Thursday
+"alem","mengistu","m",28,987654322,"mekelle","hawelti","hayelom",100,"2024-05-17T05:44:03.253Z","cash",2024,May,3,Thursday
+"genet","yohannes","f",45,987654323,"mekelle","hawelti","hayelom",100,"2024-05-17T13:53:51.054Z","check",2024,May,3,Thursday
+"ruth","solomon","f",22,987654324,"mekelle","hawelti","hayelom",100,"2024-05-17T17:10:18.088Z","cash",2024,May,3,Thursday
+"yared","gebremedhin","m",40,987654325,"mekelle","hawelti","hayelom",100,"2024-05-17T22:39:22.939Z","credit_card",2024,May,3,Thursday
+"betelhem","moges","f",30,987654326,"mekelle","hawelti","hayelom",100,"2024-05-18T01:08:40.852Z","cash",2024,May,3,Friday
+"solomon","tesfaye","m",50,987654327,"mekelle","hawelti","hayelom",100,"2024-05-18T03:49:36.236Z","check",2024,May,3,Friday
+"rachel","michael","f",18,987654328,"mekelle","hawelti","hayelom",100,"2024-05-18T04:49:35.882Z","cash",2024,May,3,Friday
+"eyob","abraham","m",27,987654329,"mekelle","hawelti","hayelom",100,"2024-05-18T06:56:34.462Z","credit_card",2024,May,3,Friday
+"bethlehem","solomon","f",35,987654330,"mekelle","hawelti","hayelom",100,"2024-05-18T11:07:02.032Z","cash",2024,May,3,Friday
+"tsega","hagos","f",11,987654342,"mekelle","hawelti","hayelom",100,"2024-05-16T04:13:45.816Z","cash",2024,May,3,Wednesday
+"syum","yalem","m",25,987654334,"central","chila","chila",100,"2024-05-16T04:14:03.253Z","credit_card",2024,May,3,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2024-05-16T04:15:51.054Z","check",2024,May,3,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2024-05-16T04:16:18.088Z","cash",2024,May,3,Wednesday
+"mulu","berhe","female",50,987654334,"mekelle","hawelti","hayelom",100,"2024-06-05T04:15:45.816Z","cash",2024,June,1,Wednesday
+"zenebe","hadera","male",11,987654322,"mekelle","hawelti","hayelom",100,"2024-06-05T05:44:03.253Z","cash",2024,June,1,Wednesday
+"berhe","hagos","m",3,987654321,"estern","erob","endamosa",100,"2024-06-05T13:53:51.054Z","cash",2024,June,1,Wednesday
+"beriha","hagos","f",17,987654321,"northern","alamata","01",100,"2024-06-05T17:10:18.088Z","cash",2024,June,1,Wednesday
+"tsegay","berhe","m",11,987654323,"southern","mekoni","01",100,"2024-06-05T22:39:22.939Z","cash",2024,June,1,Wednesday
+"tsega","hailu","f",11,987654342,"mekelle","hawelti","hayelom",100,"2024-06-05T01:08:40.852Z","cash",2024,June,1,Wednesday
+"gidey","yalem","f",76,987654321,"mekelle","hawelti","hayelom",100,"2024-06-05T03:49:36.236Z","cash",2024,June,1,Wednesday
+"syum","berihu","m",25,987654334,"central","chila","chila",100,"2024-06-05T04:49:35.882Z","cash",2024,June,1,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2024-06-05T06:56:34.462Z","cash",2024,June,1,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2024-06-05T11:07:02.032Z","cash",2024,June,1,Wednesday
+"abrehet","gebremariam","f",35,987654331,"mekelle","hawelti","hayelom",100,"2024-06-16T04:16:45.816Z","cash",2024,June,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"mekelle","hawelti","hayelom",100,"2024-06-16T04:17:03.253Z","credit_card",2024,June,3,Wednesday
+"selamawit","haile","f",45,987654333,"mekelle","hawelti","hayelom",100,"2024-06-16T04:18:51.054Z","check",2024,June,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"mekelle","hawelti","hayelom",100,"2024-06-16T04:19:18.088Z","cash",2024,June,3,Wednesday
+"hiwot","hailu","f",40,987654336,"mekelle","hawelti","hayelom",100,"2024-06-16T04:20:22.939Z","credit_card",2024,June,3,Wednesday
+"kidane","haregot","m",30,987654337,"mekelle","hawelti","hayelom",100,"2024-06-16T04:21:40.852Z","cash",2024,June,3,Wednesday
+"liya","hayelom","f",50,987654338,"mekelle","hawelti","hayelom",100,"2024-06-16T04:22:36.236Z","check",2024,June,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"mekelle","hawelti","hayelom",100,"2024-06-16T04:23:35.882Z","cash",2024,June,3,Wednesday
+"mehret","hayu","f",27,987654340,"mekelle","hawelti","hayelom",100,"2024-06-16T04:24:34.462Z","credit_card",2024,June,3,Wednesday
+"meron","hayu","m",35,987654341,"mekelle","hawelti","hayelom",100,"2024-06-16T04:25:02.032Z","cash",2024,June,3,Wednesday
+"mulu","hayu","f",25,987654342,"mekelle","hawelti","hayelom",100,"2024-06-16T04:26:04.574Z","cash",2024,June,3,Wednesday
+"negasi","hayu","m",45,987654343,"mekelle","hawelti","hayelom",100,"2024-06-16T04:27:34.245Z","credit_card",2024,June,3,Wednesday
+"rahel","hayu","f",35,987654344,"mekelle","hawelti","hayelom",100,"2024-06-16T04:28:43.862Z","check",2024,June,3,Wednesday
+"robel","hayu","m",25,987654345,"mekelle","hawelti","hayelom",100,"2024-06-16T04:29:56.006Z","cash",2024,June,3,Wednesday
+"ruth","hayu","f",45,987654346,"mekelle","hawelti","hayelom",100,"2024-06-16T04:30:40.897Z","credit_card",2024,June,3,Wednesday
+"selam","hayu","f",35,987654347,"mekelle","hawelti","hayelom",100,"2024-06-16T04:31:31.985Z","check",2024,June,3,Wednesday
+"selam","hayu","f",25,987654348,"mekelle","hawelti","hayelom",100,"2024-06-16T04:32:23.425Z","cash",2024,June,3,Wednesday
+"selam","hayu","f",45,987654349,"mekelle","hawelti","hayelom",100,"2024-06-16T04:33:55.548Z","credit_card",2024,June,3,Wednesday
+"selam","hayu","f",35,987654350,"mekelle","hawelti","hayelom",100,"2024-06-16T04:34:42.719Z","check",2024,June,3,Wednesday
+"selam","hayu","f",25,987654351,"mekelle","hawelti","hayelom",100,"2024-06-16T04:35:19.369Z","cash",2024,June,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:16:45.816Z","cash",2024,June,4,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:17:03.253Z","credit_card",2024,June,4,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:18:51.054Z","check",2024,June,4,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:19:18.088Z","cash",2024,June,4,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:20:22.939Z","credit_card",2024,June,4,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:21:40.852Z","cash",2024,June,4,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:22:36.236Z","check",2024,June,4,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:23:35.882Z","cash",2024,June,4,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:24:34.462Z","credit_card",2024,June,4,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:25:02.032Z","cash",2024,June,4,Wednesday
+"mulu","hayu","f",25,987654342,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:26:04.574Z","cash",2024,June,4,Wednesday
+"negasi","hayu","m",45,987654343,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:27:34.245Z","credit_card",2024,June,4,Wednesday
+"rahel","hayu","f",35,987654344,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:28:43.862Z","check",2024,June,4,Wednesday
+"robel","hayu","m",25,987654345,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:29:56.006Z","cash",2024,June,4,Wednesday
+"ruth","hayu","f",45,987654346,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:30:40.897Z","credit_card",2024,June,4,Wednesday
+"selam","hayu","f",35,987654347,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:31:31.985Z","check",2024,June,4,Wednesday
+"selam","hayu","f",25,987654348,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:32:23.425Z","cash",2024,June,4,Wednesday
+"selam","hayu","f",45,987654349,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:33:55.548Z","credit_card",2024,June,4,Wednesday
+"selam","hayu","f",35,987654350,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:34:42.719Z","check",2024,June,4,Wednesday
+"selam","hayu","f",25,987654351,"eastern","ganta afeshum","ganta afeshum",100,"2024-06-26T04:35:19.369Z","cash",2024,June,4,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-06T04:16:45.816Z","cash",2024,July,1,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-06T04:17:03.253Z","credit_card",2024,July,1,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-06T04:18:51.054Z","check",2024,July,1,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-06T04:19:18.088Z","cash",2024,July,1,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-06T04:20:22.939Z","credit_card",2024,July,1,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-06T04:21:40.852Z","cash",2024,July,1,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-06T04:22:36.236Z","check",2024,July,1,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-06T04:23:35.882Z","cash",2024,July,1,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-06T04:24:34.462Z","credit_card",2024,July,1,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-06T04:25:02.032Z","cash",2024,July,1,Wednesday
+"abebe","tesfaye","m",35,987654321,"mekelle","hawelti","hayelom",100,"2024-07-07T04:15:45.816Z","credit_card",2024,July,1,Thursday
+"alem","mengistu","m",28,987654322,"mekelle","hawelti","hayelom",100,"2024-07-07T05:44:03.253Z","cash",2024,July,1,Thursday
+"genet","yohannes","f",45,987654323,"mekelle","hawelti","hayelom",100,"2024-07-07T13:53:51.054Z","check",2024,July,1,Thursday
+"ruth","solomon","f",22,987654324,"mekelle","hawelti","hayelom",100,"2024-07-07T17:10:18.088Z","cash",2024,July,1,Thursday
+"yared","gebremedhin","m",40,987654325,"mekelle","hawelti","hayelom",100,"2024-07-07T22:39:22.939Z","credit_card",2024,July,1,Thursday
+"betelhem","moges","f",30,987654326,"mekelle","hawelti","hayelom",100,"2024-07-08T01:08:40.852Z","cash",2024,July,2,Friday
+"solomon","tesfaye","m",50,987654327,"mekelle","hawelti","hayelom",100,"2024-07-08T03:49:36.236Z","check",2024,July,2,Friday
+"rachel","michael","f",18,987654328,"mekelle","hawelti","hayelom",100,"2024-07-08T04:49:35.882Z","cash",2024,July,2,Friday
+"eyob","abraham","m",27,987654329,"mekelle","hawelti","hayelom",100,"2024-07-08T06:56:34.462Z","credit_card",2024,July,2,Friday
+"bethlehem","solomon","f",35,987654330,"mekelle","hawelti","hayelom",100,"2024-07-08T11:07:02.032Z","cash",2024,July,2,Friday
+"mulu","berhe","female",50,987654334,"mekelle","hawelti","hayelom",100,"2024-07-15T04:15:45.816Z","cash",2024,July,3,Wednesday
+"zenebe","hadera","male",11,987654322,"mekelle","hawelti","hayelom",100,"2024-07-15T05:44:03.253Z","cash",2024,July,3,Wednesday
+"berhe","hagos","m",3,987654321,"estern","erob","endamosa",100,"2024-07-15T13:53:51.054Z","cash",2024,July,3,Wednesday
+"beriha","hagos","f",17,987654321,"northern","alamata","01",100,"2024-07-15T17:10:18.088Z","cash",2024,July,3,Wednesday
+"tsegay","berhe","m",11,987654323,"southern","mekoni","01",100,"2024-07-15T22:39:22.939Z","cash",2024,July,3,Wednesday
+"tsega","hailu","f",11,987654342,"mekelle","hawelti","hayelom",100,"2024-07-16T01:08:40.852Z","cash",2024,July,3,Wednesday
+"gidey","yalem","f",76,987654321,"mekelle","hawelti","hayelom",100,"2024-07-16T03:49:36.236Z","cash",2024,July,3,Wednesday
+"syum","berihu","m",25,987654334,"central","chila","chila",100,"2024-07-16T04:49:35.882Z","cash",2024,July,3,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2024-07-16T06:56:34.462Z","cash",2024,July,3,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2024-07-16T11:07:02.032Z","cash",2024,July,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"mekelle","hawelti","hayelom",100,"2024-07-16T04:16:45.816Z","cash",2024,July,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"mekelle","hawelti","hayelom",100,"2024-07-16T04:17:03.253Z","credit_card",2024,July,3,Wednesday
+"selamawit","haile","f",45,987654333,"mekelle","hawelti","hayelom",100,"2024-07-16T04:18:51.054Z","check",2024,July,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"mekelle","hawelti","hayelom",100,"2024-07-16T04:19:18.088Z","cash",2024,July,3,Wednesday
+"hiwot","hailu","f",40,987654336,"mekelle","hawelti","hayelom",100,"2024-07-16T04:20:22.939Z","credit_card",2024,July,3,Wednesday
+"kidane","haregot","m",30,987654337,"mekelle","hawelti","hayelom",100,"2024-07-16T04:21:40.852Z","cash",2024,July,3,Wednesday
+"liya","hayelom","f",50,987654338,"mekelle","hawelti","hayelom",100,"2024-07-16T04:22:36.236Z","check",2024,July,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"mekelle","hawelti","hayelom",100,"2024-07-16T04:23:35.882Z","cash",2024,July,3,Wednesday
+"mehret","hayu","f",27,987654340,"mekelle","hawelti","hayelom",100,"2024-07-16T04:24:34.462Z","credit_card",2024,July,3,Wednesday
+"meron","hayu","m",35,987654341,"mekelle","hawelti","hayelom",100,"2024-07-16T04:25:02.032Z","cash",2024,July,3,Wednesday
+"mulu","hayu","f",25,987654342,"mekelle","hawelti","hayelom",100,"2024-07-16T04:26:04.574Z","cash",2024,July,3,Wednesday
+"negasi","hayu","m",45,987654343,"mekelle","hawelti","hayelom",100,"2024-07-16T04:27:34.245Z","credit_card",2024,July,3,Wednesday
+"rahel","hayu","f",35,987654344,"mekelle","hawelti","hayelom",100,"2024-07-16T04:28:43.862Z","check",2024,July,3,Wednesday
+"robel","hayu","m",25,987654345,"mekelle","hawelti","hayelom",100,"2024-07-16T04:29:56.006Z","cash",2024,July,3,Wednesday
+"ruth","hayu","f",45,987654346,"mekelle","hawelti","hayelom",100,"2024-07-16T04:30:40.897Z","credit_card",2024,July,3,Wednesday
+"selam","hayu","f",35,987654347,"mekelle","hawelti","hayelom",100,"2024-07-16T04:31:31.985Z","check",2024,July,3,Wednesday
+"selam","hayu","f",25,987654348,"mekelle","hawelti","hayelom",100,"2024-07-16T04:32:23.425Z","cash",2024,July,3,Wednesday
+"selam","hayu","f",45,987654349,"mekelle","hawelti","hayelom",100,"2024-07-16T04:33:55.548Z","credit_card",2024,July,3,Wednesday
+"selam","hayu","f",35,987654350,"mekelle","hawelti","hayelom",100,"2024-07-16T04:34:42.719Z","check",2024,July,3,Wednesday
+"selam","hayu","f",25,987654351,"mekelle","hawelti","hayelom",100,"2024-07-16T04:35:19.369Z","cash",2024,July,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:16:45.816Z","cash",2024,July,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:17:03.253Z","credit_card",2024,July,3,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:18:51.054Z","check",2024,July,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:19:18.088Z","cash",2024,July,3,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:20:22.939Z","credit_card",2024,July,3,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:21:40.852Z","cash",2024,July,3,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:22:36.236Z","check",2024,July,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:23:35.882Z","cash",2024,July,3,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:24:34.462Z","credit_card",2024,July,3,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:25:02.032Z","cash",2024,July,3,Wednesday
+"mulu","hayu","f",25,987654342,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:26:04.574Z","cash",2024,July,3,Wednesday
+"negasi","hayu","m",45,987654343,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:27:34.245Z","credit_card",2024,July,3,Wednesday
+"rahel","hayu","f",35,987654344,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:28:43.862Z","check",2024,July,3,Wednesday
+"robel","hayu","m",25,987654345,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:29:56.006Z","cash",2024,July,3,Wednesday
+"ruth","hayu","f",45,987654346,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:30:40.897Z","credit_card",2024,July,3,Wednesday
+"selam","hayu","f",35,987654347,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:31:31.985Z","check",2024,July,3,Wednesday
+"selam","hayu","f",25,987654348,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:32:23.425Z","cash",2024,July,3,Wednesday
+"selam","hayu","f",45,987654349,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:33:55.548Z","credit_card",2024,July,3,Wednesday
+"selam","hayu","f",35,987654350,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:34:42.719Z","check",2024,July,3,Wednesday
+"selam","hayu","f",25,987654351,"eastern","ganta afeshum","ganta afeshum",100,"2024-07-16T04:35:19.369Z","cash",2024,July,3,Wednesday
+"hgus","weldeyohanes","m",25,987654321,"central","naedier","metakulo",100,"2024-07-27T08:15:34.245Z","cash",2024,July,4,Saturday
+"we","we","f",12,9876543,"we","we","we",100,"2024-07-27T18:56:43.862Z","credit_card",2024,July,4,Saturday
+"me","me","f",12,987654321,"we","we","we",100,"2024-07-28T04:12:56.006Z","credit_card",2024,July,4,Saturday
+"qw","qw","m",12,898088,"qw","qw","qw",100,"2024-07-28T07:02:40.897Z","check",2024,July,4,Sunday
+"fre","fe","m",12,1231131,"new","new","new",100,"2024-07-28T19:58:31.985Z","check",2024,July,4,Sunday
+"azeb","tekle","m",25,987654321,"central","naedier","abeba yohans",100,"2024-07-29T17:00:23.425Z","cash",2024,July,5,Monday
+"rer","ree","m",12,987,"we","we","we",100,"2024-07-29T18:03:55.548Z","check",2024,July,5,Monday
+"berhe","hagos","m",3,987654321,"estern","erob","endamosa",100,"2024-07-25T13:53:51.054Z","cash",2024,July,4,Wednesday
+"beriha","hagos","f",17,987654321,"northern","alamata","01",100,"2024-07-25T17:10:18.088Z","cash",2024,July,4,Wednesday
+"tsegay","berhe","m",11,987654323,"southern","mekoni","01",100,"2024-07-25T22:39:22.939Z","cash",2024,July,4,Wednesday
+"tsega","hailu","f",11,987654342,"mekelle","hawelti","hayelom",100,"2024-07-26T01:08:40.852Z","cash",2024,July,4,Wednesday
+"gidey","yalem","f",76,987654321,"mekelle","hawelti","hayelom",100,"2024-07-26T03:49:36.236Z","cash",2024,July,4,Wednesday
+"syum","berihu","m",25,987654334,"central","chila","chila",100,"2024-07-26T04:49:35.882Z","cash",2024,July,4,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2024-07-26T06:56:34.462Z","cash",2024,July,4,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2024-07-26T11:07:02.032Z","cash",2024,July,4,Wednesday
+"tsegay","berhe","m",22,987654321,"mekelle","hawelti","01",100,"2024-08-16T04:07:42.719Z","cash",2024,August,3,Wednesday
+"beyene","tsegay","m",56,9876543345,"central","axum","abeba yohans",100,"2024-08-16T04:09:19.369Z","credit_card",2024,August,3,Wednesday
+"tekia","tekle","m",56,987654321,"estern","erob","endamosa",100,"2024-08-16T04:10:44.301Z","credit_card",2024,August,3,Wednesday
+"lemlem","hagos","f",4,979417636,"central","naedier","new",100,"2024-08-16T04:11:31.633Z","cash",2024,August,3,Wednesday
+"getachew","hadgu","m",12,987654322,"western","humera","humera",100,"2024-08-16T04:12:30.921Z","cash",2024,August,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:16:45.816Z","cash",2024,August,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:17:03.253Z","credit_card",2024,August,3,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:18:51.054Z","check",2024,August,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:19:18.088Z","cash",2024,August,3,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:20:22.939Z","credit_card",2024,August,3,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:21:40.852Z","cash",2024,August,3,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:22:36.236Z","check",2024,August,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:23:35.882Z","cash",2024,August,3,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:24:34.462Z","credit_card",2024,August,3,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:25:02.032Z","cash",2024,August,3,Wednesday
+"abebe","tesfaye","m",35,987654321,"mekelle","hawelti","hayelom",100,"2024-08-17T04:15:45.816Z","credit_card",2024,August,3,Thursday
+"alem","mengistu","m",28,987654322,"mekelle","hawelti","hayelom",100,"2024-08-17T05:44:03.253Z","cash",2024,August,3,Thursday
+"genet","yohannes","f",45,987654323,"mekelle","hawelti","hayelom",100,"2024-08-17T13:53:51.054Z","check",2024,August,3,Thursday
+"ruth","solomon","f",22,987654324,"mekelle","hawelti","hayelom",100,"2024-08-17T17:10:18.088Z","cash",2024,August,3,Thursday
+"yared","gebremedhin","m",40,987654325,"mekelle","hawelti","hayelom",100,"2024-08-17T22:39:22.939Z","credit_card",2024,August,3,Thursday
+"betelhem","moges","f",30,987654326,"mekelle","hawelti","hayelom",100,"2024-08-18T01:08:40.852Z","cash",2024,August,3,Friday
+"solomon","tesfaye","m",50,987654327,"mekelle","hawelti","hayelom",100,"2024-08-18T03:49:36.236Z","check",2024,August,3,Friday
+"rachel","michael","f",18,987654328,"mekelle","hawelti","hayelom",100,"2024-08-18T04:49:35.882Z","cash",2024,August,3,Friday
+"eyob","abraham","m",27,987654329,"mekelle","hawelti","hayelom",100,"2024-08-18T06:56:34.462Z","credit_card",2024,August,3,Friday
+"bethlehem","solomon","f",35,987654330,"mekelle","hawelti","hayelom",100,"2024-08-18T11:07:02.032Z","cash",2024,August,3,Friday
+"tsega","hagos","f",11,987654342,"mekelle","hawelti","hayelom",100,"2024-08-16T04:13:45.816Z","cash",2024,August,3,Wednesday
+"syum","yalem","m",25,987654334,"central","chila","chila",100,"2024-08-16T04:14:03.253Z","credit_card",2024,August,3,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2024-08-16T04:15:51.054Z","check",2024,August,3,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2024-08-16T04:16:18.088Z","cash",2024,August,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"mekelle","hawelti","hayelom",100,"2024-08-16T04:16:45.816Z","cash",2024,August,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"mekelle","hawelti","hayelom",100,"2024-08-16T04:17:03.253Z","credit_card",2024,August,3,Wednesday
+"selamawit","haile","f",45,987654333,"mekelle","hawelti","hayelom",100,"2024-08-16T04:18:51.054Z","check",2024,August,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"mekelle","hawelti","hayelom",100,"2024-08-16T04:19:18.088Z","cash",2024,August,3,Wednesday
+"hiwot","hailu","f",40,987654336,"mekelle","hawelti","hayelom",100,"2024-08-16T04:20:22.939Z","credit_card",2024,August,3,Wednesday
+"kidane","haregot","m",30,987654337,"mekelle","hawelti","hayelom",100,"2024-08-16T04:21:40.852Z","cash",2024,August,3,Wednesday
+"liya","hayelom","f",50,987654338,"mekelle","hawelti","hayelom",100,"2024-08-16T04:22:36.236Z","check",2024,August,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"mekelle","hawelti","hayelom",100,"2024-08-16T04:23:35.882Z","cash",2024,August,3,Wednesday
+"mehret","hayu","f",27,987654340,"mekelle","hawelti","hayelom",100,"2024-08-16T04:24:34.462Z","credit_card",2024,August,3,Wednesday
+"meron","hayu","m",35,987654341,"mekelle","hawelti","hayelom",100,"2024-08-16T04:25:02.032Z","cash",2024,August,3,Wednesday
+"mulu","hayu","f",25,987654342,"mekelle","hawelti","hayelom",100,"2024-08-16T04:26:04.574Z","cash",2024,August,3,Wednesday
+"negasi","hayu","m",45,987654343,"mekelle","hawelti","hayelom",100,"2024-08-16T04:27:34.245Z","credit_card",2024,August,3,Wednesday
+"rahel","hayu","f",35,987654344,"mekelle","hawelti","hayelom",100,"2024-08-16T04:28:43.862Z","check",2024,August,3,Wednesday
+"robel","hayu","m",25,987654345,"mekelle","hawelti","hayelom",100,"2024-08-16T04:29:56.006Z","cash",2024,August,3,Wednesday
+"ruth","hayu","f",45,987654346,"mekelle","hawelti","hayelom",100,"2024-08-16T04:30:40.897Z","credit_card",2024,August,3,Wednesday
+"selam","hayu","f",35,987654347,"mekelle","hawelti","hayelom",100,"2024-08-16T04:31:31.985Z","check",2024,August,3,Wednesday
+"selam","hayu","f",25,987654348,"mekelle","hawelti","hayelom",100,"2024-08-16T04:32:23.425Z","cash",2024,August,3,Wednesday
+"selam","hayu","f",45,987654349,"mekelle","hawelti","hayelom",100,"2024-08-16T04:33:55.548Z","credit_card",2024,August,3,Wednesday
+"selam","hayu","f",35,987654350,"mekelle","hawelti","hayelom",100,"2024-08-16T04:34:42.719Z","check",2024,August,3,Wednesday
+"selam","hayu","f",25,987654351,"mekelle","hawelti","hayelom",100,"2024-08-16T04:35:19.369Z","cash",2024,August,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:16:45.816Z","cash",2024,August,3,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:17:03.253Z","credit_card",2024,August,3,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:18:51.054Z","check",2024,August,3,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:19:18.088Z","cash",2024,August,3,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:20:22.939Z","credit_card",2024,August,3,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:21:40.852Z","cash",2024,August,3,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:22:36.236Z","check",2024,August,3,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:23:35.882Z","cash",2024,August,3,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:24:34.462Z","credit_card",2024,August,3,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:25:02.032Z","cash",2024,August,3,Wednesday
+"mulu","hayu","f",25,987654342,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:26:04.574Z","cash",2024,August,3,Wednesday
+"negasi","hayu","m",45,987654343,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:27:34.245Z","credit_card",2024,August,3,Wednesday
+"rahel","hayu","f",35,987654344,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:28:43.862Z","check",2024,August,3,Wednesday
+"robel","hayu","m",25,987654345,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:29:56.006Z","cash",2024,August,3,Wednesday
+"ruth","hayu","f",45,987654346,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:30:40.897Z","credit_card",2024,August,3,Wednesday
+"selam","hayu","f",35,987654347,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:31:31.985Z","check",2024,August,3,Wednesday
+"selam","hayu","f",25,987654348,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:32:23.425Z","cash",2024,August,3,Wednesday
+"selam","hayu","f",45,987654349,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:33:55.548Z","credit_card",2024,August,3,Wednesday
+"selam","hayu","f",35,987654350,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:34:42.719Z","check",2024,August,3,Wednesday
+"selam","hayu","f",25,987654351,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-16T04:35:19.369Z","cash",2024,August,3,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:16:45.816Z","cash",2024,August,4,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:17:03.253Z","credit_card",2024,August,4,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:18:51.054Z","check",2024,August,4,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:19:18.088Z","cash",2024,August,4,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:20:22.939Z","credit_card",2024,August,4,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:21:40.852Z","cash",2024,August,4,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:22:36.236Z","check",2024,August,4,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:23:35.882Z","cash",2024,August,4,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:24:34.462Z","credit_card",2024,August,4,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:25:02.032Z","cash",2024,August,4,Wednesday
+"abebe","tesfaye","m",35,987654321,"mekelle","hawelti","hayelom",100,"2024-08-27T04:15:45.816Z","credit_card",2024,August,4,Thursday
+"alem","mengistu","m",28,987654322,"mekelle","hawelti","hayelom",100,"2024-08-27T05:44:03.253Z","cash",2024,August,4,Thursday
+"genet","yohannes","f",45,987654323,"mekelle","hawelti","hayelom",100,"2024-08-27T13:53:51.054Z","check",2024,August,4,Thursday
+"ruth","solomon","f",22,987654324,"mekelle","hawelti","hayelom",100,"2024-08-27T17:10:18.088Z","cash",2024,August,4,Thursday
+"yared","gebremedhin","m",40,987654325,"mekelle","hawelti","hayelom",100,"2024-08-27T22:39:22.939Z","credit_card",2024,August,4,Thursday
+"betelhem","moges","f",30,987654326,"mekelle","hawelti","hayelom",100,"2024-08-28T01:08:40.852Z","cash",2024,August,4,Friday
+"solomon","tesfaye","m",50,987654327,"mekelle","hawelti","hayelom",100,"2024-08-28T03:49:36.236Z","check",2024,August,4,Friday
+"rachel","michael","f",18,987654328,"mekelle","hawelti","hayelom",100,"2024-08-28T04:49:35.882Z","cash",2024,August,4,Friday
+"eyob","abraham","m",27,987654329,"mekelle","hawelti","hayelom",100,"2024-08-28T06:56:34.462Z","credit_card",2024,August,4,Friday
+"bethlehem","solomon","f",35,987654330,"mekelle","hawelti","hayelom",100,"2024-08-28T11:07:02.032Z","cash",2024,August,4,Friday
+"tsega","hagos","f",11,987654342,"mekelle","hawelti","hayelom",100,"2024-08-26T04:13:45.816Z","cash",2024,August,4,Wednesday
+"syum","yalem","m",25,987654334,"central","chila","chila",100,"2024-08-26T04:14:03.253Z","credit_card",2024,August,4,Wednesday
+"belay","geray","m",12,987654321,"central","axum","01",100,"2024-08-26T04:15:51.054Z","check",2024,August,4,Wednesday
+"fre","hadush","f",11,987654321,"mekelle","hadnet","aynalem",100,"2024-08-26T04:16:18.088Z","cash",2024,August,4,Wednesday
+"abrehet","gebremariam","f",35,987654331,"mekelle","hawelti","hayelom",100,"2024-08-26T04:16:45.816Z","cash",2024,August,4,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"mekelle","hawelti","hayelom",100,"2024-08-26T04:17:03.253Z","credit_card",2024,August,4,Wednesday
+"selamawit","haile","f",45,987654333,"mekelle","hawelti","hayelom",100,"2024-08-26T04:18:51.054Z","check",2024,August,4,Wednesday
+"daniel","habtemariam","m",22,987654335,"mekelle","hawelti","hayelom",100,"2024-08-26T04:19:18.088Z","cash",2024,August,4,Wednesday
+"hiwot","hailu","f",40,987654336,"mekelle","hawelti","hayelom",100,"2024-08-26T04:20:22.939Z","credit_card",2024,August,4,Wednesday
+"kidane","haregot","m",30,987654337,"mekelle","hawelti","hayelom",100,"2024-08-26T04:21:40.852Z","cash",2024,August,4,Wednesday
+"liya","hayelom","f",50,987654338,"mekelle","hawelti","hayelom",100,"2024-08-26T04:22:36.236Z","check",2024,August,4,Wednesday
+"mebrahtu","haylu","m",18,987654339,"mekelle","hawelti","hayelom",100,"2024-08-26T04:23:35.882Z","cash",2024,August,4,Wednesday
+"mehret","hayu","f",27,987654340,"mekelle","hawelti","hayelom",100,"2024-08-26T04:24:34.462Z","credit_card",2024,August,4,Wednesday
+"meron","hayu","m",35,987654341,"mekelle","hawelti","hayelom",100,"2024-08-26T04:25:02.032Z","cash",2024,August,4,Wednesday
+"mulu","hayu","f",25,987654342,"mekelle","hawelti","hayelom",100,"2024-08-26T04:26:04.574Z","cash",2024,August,4,Wednesday
+"negasi","hayu","m",45,987654343,"mekelle","hawelti","hayelom",100,"2024-08-26T04:27:34.245Z","credit_card",2024,August,4,Wednesday
+"rahel","hayu","f",35,987654344,"mekelle","hawelti","hayelom",100,"2024-08-26T04:28:43.862Z","check",2024,August,4,Wednesday
+"robel","hayu","m",25,987654345,"mekelle","hawelti","hayelom",100,"2024-08-26T04:29:56.006Z","cash",2024,August,4,Wednesday
+"ruth","hayu","f",45,987654346,"mekelle","hawelti","hayelom",100,"2024-08-26T04:30:40.897Z","credit_card",2024,August,4,Wednesday
+"selam","hayu","f",35,987654347,"mekelle","hawelti","hayelom",100,"2024-08-26T04:31:31.985Z","check",2024,August,4,Wednesday
+"selam","hayu","f",25,987654348,"mekelle","hawelti","hayelom",100,"2024-08-26T04:32:23.425Z","cash",2024,August,4,Wednesday
+"selam","hayu","f",45,987654349,"mekelle","hawelti","hayelom",100,"2024-08-26T04:33:55.548Z","credit_card",2024,August,4,Wednesday
+"selam","hayu","f",35,987654350,"mekelle","hawelti","hayelom",100,"2024-08-26T04:34:42.719Z","check",2024,August,4,Wednesday
+"selam","hayu","f",25,987654351,"mekelle","hawelti","hayelom",100,"2024-08-26T04:35:19.369Z","cash",2024,August,4,Wednesday
+"abrehet","gebremariam","f",35,987654331,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:16:45.816Z","cash",2024,August,4,Wednesday
+"yohannes","gebreyesus","m",28,987654332,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:17:03.253Z","credit_card",2024,August,4,Wednesday
+"selamawit","haile","f",45,987654333,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:18:51.054Z","check",2024,August,4,Wednesday
+"daniel","habtemariam","m",22,987654335,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:19:18.088Z","cash",2024,August,4,Wednesday
+"hiwot","hailu","f",40,987654336,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:20:22.939Z","credit_card",2024,August,4,Wednesday
+"kidane","haregot","m",30,987654337,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:21:40.852Z","cash",2024,August,4,Wednesday
+"liya","hayelom","f",50,987654338,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:22:36.236Z","check",2024,August,4,Wednesday
+"mebrahtu","haylu","m",18,987654339,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:23:35.882Z","cash",2024,August,4,Wednesday
+"mehret","hayu","f",27,987654340,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:24:34.462Z","credit_card",2024,August,4,Wednesday
+"meron","hayu","m",35,987654341,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:25:02.032Z","cash",2024,August,4,Wednesday
+"mulu","hayu","f",25,987654342,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:26:04.574Z","cash",2024,August,4,Wednesday
+"negasi","hayu","m",45,987654343,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:27:34.245Z","credit_card",2024,August,4,Wednesday
+"rahel","hayu","f",35,987654344,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:28:43.862Z","check",2024,August,4,Wednesday
+"robel","hayu","m",25,987654345,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:29:56.006Z","cash",2024,August,4,Wednesday
+"ruth","hayu","f",45,987654346,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:30:40.897Z","credit_card",2024,August,4,Wednesday
+"selam","hayu","f",35,987654347,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:31:31.985Z","check",2024,August,4,Wednesday
+"selam","hayu","f",25,987654348,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:32:23.425Z","cash",2024,August,4,Wednesday
+"selam","hayu","f",45,987654349,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:33:55.548Z","credit_card",2024,August,4,Wednesday
+"selam","hayu","f",35,987654350,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:34:42.719Z","check",2024,August,4,Wednesday
+"selam","hayu","f",25,987654351,"eastern","ganta afeshum","ganta afeshum",100,"2024-08-26T04:35:19.369Z","cash",2024,August,4,Wednesday

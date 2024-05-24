@@ -1,0 +1,49 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+* {
+margin: 0;
+padding: 0;
+font-family: 'Poppins', sans-serif;
+}
+ /* body { */
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; Center horizontally */
+  /* height: 100vh; */
+  /* background: #090c0bde; */
+/* } */ */
+
+/* form */
+.form-container {
+  display: flex;
+  justify-content: center; /* Center horizontally*/
+  align-items: center;
+  width: 600px;
+  /* height: 600px; */
+}
+.title, 
+.slogan {
+  text-align: center;
+}
+.btn {
+  width: 100%;
+}
+.auth-image {
+  width: 100%;
+  border-radius: 8px;
+}
+.alert{
+  margin-bottom: 1.5rem;
+}
+.profile-card {
+  width: 500px;
+}
+.avatar {
+  margin-bottom: 1.5rem;
+}
+.username {
+  text-transform: capitalize;
+}
+.profile-btn {
+  margin-top: 1.3rem;
+  width: 100%;
+}
